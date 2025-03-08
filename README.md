@@ -1,70 +1,67 @@
 Worm virus by : HAZELNUT
-Creator : HAZEL
-Date created : 08/03/2025
+CREATOR : HAZEL
+DATE CREATED : 08/03/2025
 
 ---
-What is a Virus Worm?
+Worm Virus for Browser
 
-A virus worm is a type of malware that can spread automatically without user interaction. Unlike computer viruses that usually require a host file to spread, worms can replicate themselves through networks, emails, or external storage media.
-How Worms Work.
+Disclaimer
 
-1. Exploiting Vulnerabilities: Worms often take advantage of security flaws in operating systems or applications.
+This project is for educational purposes only. The author is not responsible for any misuse of this information.
 
-2. Automatic Spread: Once inside a system, worms attempt to spread to other devices in the network.
+What is a Worm Virus?
 
+A worm virus is a type of malware that can spread itself without human intervention. Unlike traditional viruses, worms do not need a host file to replicate. They exploit security vulnerabilities in software, networks, or user behavior to spread across systems and cause disruptions. In the case of a browser worm, its primary target is web browsers, where it performs malicious actions such as opening multiple search tabs, stealing data, or installing additional malware.
 
-3. Malicious Payload: Some worms carry payloads that can damage data, steal information, or install backdoors for hackers.
+Overview
 
+This worm virus is designed to disrupt user experience by flooding their browser with multiple search tabs automatically. As a result, the user's device becomes extremely slow and experiences excessive lag. The virus spreads through phishing, malicious ads, or infected extensions and remains active even after the browser is closed or the device is restarted.
 
-4. Using Email & Social Media: Many worms spread through malicious email attachments or harmful links on social media.
+Features
 
+Search Window Spam: The worm automatically opens multiple search tabs in the browser, causing the user's device to slow down and experience excessive lag.
 
+Persistence: Stays active even after the browser is restarted.
 
-Famous Virus Worm Examples
-
-Morris Worm (1988): One of the first worms to spread through the internet, causing significant disruptions.
-
-ILOVEYOU (2000): A worm that spread through emails with the subject "I LOVE YOU" and infected millions of computers.
-
-WannaCry (2017): A ransomware worm that exploited Windows vulnerabilities and encrypted users' data.
+Remote Control: Allows attackers to send remote commands.
 
 
-How to Prevent Worm Infections
+How It Works
 
-1. Use Antivirus Software: Ensure your device is protected with up-to-date antivirus software.
-
-
-2. Update Systems & Applications: Regularly update your OS and applications to close security gaps.
+1. Injection: The worm is embedded into the browser through malicious scripts or modified extensions.
 
 
-3. Avoid Suspicious Links: Do not click on suspicious links or open unknown email attachments.
+2. Propagation: The virus spreads via phishing links, malicious ads, or infected websites.
 
 
-4. Use Firewalls & IDS: Intrusion Detection Systems and firewalls can help prevent worm attacks.
+3. Execution: Once activated, the worm continuously opens multiple search tabs, making the user's device unresponsive.
 
 
-5. Regularly Backup Data: Keep backups to secure your data in case of infection.
+4. Persistence: The worm uses methods like auto-startup or browser extensions to stay active after a device restart.
 
 
 
-What to Do If Infected?
+Prevention
 
-1. Disconnect from the Internet: Prevent the worm from spreading further.
+To avoid this worm, follow these steps:
+
+Do not click on suspicious links or ads.
+
+Avoid installing browser extensions from untrusted sources.
+
+Use an ad blocker and security extensions to prevent malicious script execution.
+
+Always update your browser and extensions to close security vulnerabilities.
+
+Run regular antivirus scans to detect and remove malware.
 
 
-2. Use Safe Mode: Boot into safe mode to remove the worm.
+Legal Warning
 
-
-3. Run Anti-Malware Software: Perform a full scan using security software.
-
-
-4. Restore Data from Backup: If necessary, restore data from a backup before the infection.
-
-
-5. Update Security Systems: Ensure all security patches are applied to avoid reinfection.
-
+Developing or distributing malware without authorization is illegal. This document is intended for cybersecurity research and awareness only.
 
 
 ---
 
-This document provides an overview of virus worms and how to protect yourself from these threats. Always stay vigilant about your digital security!
+Save this file as README.txt for plain text format.
+
