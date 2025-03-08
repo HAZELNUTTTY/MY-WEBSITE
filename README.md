@@ -1,4 +1,4 @@
-Worm virus by : HAZELNUT
+WORM VIRUS BY: HAZELNUT
 CREATOR : HAZEL
 DATE CREATED : 08/03/2025
 
@@ -55,13 +55,8 @@ Always update your browser and extensions to close security vulnerabilities.
 
 Run regular antivirus scans to detect and remove malware.
 
-
+---
 Legal Warning
 
-Developing or distributing malware without authorization is illegal. This document is intended for cybersecurity research and awareness only.
-
-
----
-
-Save this file as README.txt for plain text format.
+Developing or distributing malware without authorization is illegal. This document is intended for cybersecurity research and awareness only
 
